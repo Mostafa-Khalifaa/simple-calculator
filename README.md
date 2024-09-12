@@ -1,4 +1,4 @@
-# 🧮 Calculator Web App
+# 🧮 simple Calculator Web App
 
 This is a simple Calculator built using **HTML**, **CSS**, and **JavaScript**. The application allows users to perform basic arithmetic operations and supports keyboard accessibility.
 
