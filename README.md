@@ -14,7 +14,7 @@ This is a simple Calculator built using **HTML**, **CSS**, and **JavaScript**. T
 
 ## 🌍 Live Version Available
 
-You can check the live version [here](https://mostafa-khalifaa.github.io/simple-calculator-/).
+You can check the live version [here](https://mostafa-khalifaa.github.io/simple-calculator/).
 
 ## 💻 Technologies Used
 
